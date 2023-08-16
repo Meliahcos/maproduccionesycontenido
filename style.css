@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+   
+
+    header{
+    box-sizing: border-box;
+    width: 230px;
+    }
+    header image{ 
+        border-radius: 300px;
+    }
